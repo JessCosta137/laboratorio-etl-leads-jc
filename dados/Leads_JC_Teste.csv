@@ -1,0 +1,16 @@
+id_lead,data_entrada,cliente_ficticio,cidade,origem,servico,valor_estimado,status
+1001,2026-09-01,Cliente_001,Poa,Instagram,Landing_Page,1200,Novo
+1002,2026-09-02,Cliente_002,Suzano,Indicacao,Automacao_WhatsApp,1800,Em_Contato
+1003,2026-09-03,Cliente_003,Mogi_das_Cruzes,Google,Dashboard_Power_BI,2200,Proposta_Enviada
+1004,2026-09-04,Cliente_004,Sao_Paulo,LinkedIn,Organizacao_de_Dados,1500,Fechado
+1005,2026-09-05,Cliente_005,Ferraz_de_Vasconcelos,WhatsApp,Formulario_de_Leads,900,Novo
+1006,2026-09-06,Cliente_006,Itaquaquecetuba,Instagram,Landing_Page,1300,Em_Contato
+1007,2026-09-07,Cliente_007,Poa,Indicacao,Integracao_GA4,800,Fechado
+1008,2026-09-08,Cliente_008,Suzano,Google,Automacao_Planilhas,1700,Proposta_Enviada
+1009,2026-09-09,Cliente_009,Sao_Paulo,Instagram,Dashboard_Power_BI,2400,Em_Contato
+1010,2026-09-10,Cliente_010,Mogi_das_Cruzes,WhatsApp,Landing_Page,1250,Perdido
+1011,2026-09-11,Cliente_011,Poa,LinkedIn,Automacao_WhatsApp,1900,Novo
+1012,2026-09-12,Cliente_012,Suzano,Indicacao,Organizacao_de_Dados,1600,Fechado
+1013,2026-09-13,Cliente_013,Sao_Paulo,Google,Formulario_de_Leads,950,Proposta_Enviada
+1014,2026-09-14,Cliente_014,Ferraz_de_Vasconcelos,Instagram,Integracao_GA4,850,Em_Contato
+1015,2026-09-15,Cliente_015,Mogi_das_Cruzes,WhatsApp,Automacao_Planilhas,1750,Novo
